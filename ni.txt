@@ -9,6 +9,12 @@
 浙江公共新闻,http://yd-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#http://yd-m-l.cztv.com/channels/lantian/channel007/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
 浙江少儿,http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://yd-m-l.cztv.com/channels/lantian/channel008/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
 浙江国际,http://yd-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#http://yd-m-l.cztv.com/channels/lantian/channel010/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8
+杭州综合,http://112.17.40.136/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229307/index.m3u8
+杭州明珠,http://112.17.40.136/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229310/index.m3u8
+杭州生活,http://112.17.40.136/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229313/index.m3u8
+杭州青少体育,http://112.17.40.136/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229316/index.m3u8
+杭州影视,http://112.17.40.136/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229377/index.m3u8
+1660,http://112.17.40.136/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229660/index.m3u8
 CCTV1,http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228809/index.m3u8
 CCTV2,http://39.134.176.163/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230716/01.m3u8?fmt=ts2hls
 CCTV3,http://117.148.187.42/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230740/index.m3u8
