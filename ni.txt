@@ -19,7 +19,6 @@ CCTV2,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32
 CCTV3,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228563/index.m3u8?fmt=ts2hls
 CCTV4,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229319/index.m3u8?fmt=ts2hls
 CCTV4,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749/index.m3u8?fmt=ts2hls
-CCTV4K,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/index.m3u8?fmt=ts2hls
 CCTV5,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228965/index.m3u8?fmt=ts2hls
 CCTV5,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229687/index.m3u8?fmt=ts2hls
 CCTV5+,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229684/index.m3u8?fmt=ts2hls
@@ -36,7 +35,6 @@ CCTV15,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3
 CCTV17,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229762/index.m3u8?fmt=ts2hls
 CETV4,http://112.17.40.136/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230334/index.m3u8
 CGTN,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228545/index.m3u8?fmt=ts2hls
-BESTV4K,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/index.m3u8?fmt=ts2hls
 都市剧场,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/index.m3u8?fmt=ts2hls
 欢笑剧场,http://112.17.40.136/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230739/index.m3u8
 求索记录,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/index.m3u8?fmt=ts2hls
@@ -72,11 +70,9 @@ BESTV4K,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/
 音乐台,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/index.m3u8?fmt=ts2hls
 云南卫视,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228303/index.m3u8?fmt=ts2hls
 重庆卫视,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228296/index.m3u8?fmt=ts2hls
-凤凰中文,http://112.17.40.136/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
+凤凰中文台,http://112.17.40.136/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
 凤凰资讯,http://112.17.40.136/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
 黑莓电影,http://112.17.40.136/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229010/index.m3u8
-电影1,http://112.17.40.136/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230352/index.m3u8
-Y+影院,http://117.148.187.13/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/index.m3u8?fmt=ts2hls
 iHot爱谍战,http://112.17.40.136/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
 iHot爱都市,http://112.17.40.136/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/index.m3u8
 iHot爱家庭,http://112.17.40.136/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
