@@ -2,7 +2,7 @@
 绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 浙江卫视,http://yd-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8#http://yd-m-l.cztv.com/channels/lantian/channel001/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8
-浙江钱江都市,http://yd-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8#http://yd-m-l.cztv.com/channels/lantian/channel002/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8
+钱江都市,http://yd-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8#http://yd-m-l.cztv.com/channels/lantian/channel002/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8
 浙江经济生活,http://yd-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://yd-m-l.cztv.com/channels/lantian/channel003/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
 浙江教育科技,http://yd-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#http://yd-m-l.cztv.com/channels/lantian/channel004/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 浙江民生休闲,http://yd-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#http://yd-m-l.cztv.com/channels/lantian/channel006/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
