@@ -1,5 +1,5 @@
 宁波,#genre#
-绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+1绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 浙江卫视,http://yd-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#http://yd-m-l.cztv.com/channels/lantian/channel001/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel01/720p.m3u8
